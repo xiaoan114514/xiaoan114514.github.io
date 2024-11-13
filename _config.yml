@@ -7,11 +7,11 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "zh-CN"
-title                    : "Your Name / Site Title"
+locale                   : "en-US"
+title                    : "Weclome"
 title_separator          : "-"
 name                     : &name "xiaoan"
-description              : &description "一个普通的人"
+description              : &description "im so cute"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
