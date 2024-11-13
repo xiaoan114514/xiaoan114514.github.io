@@ -1,49 +1,50 @@
+
 # Welcome to Jekyll!
 #
-# 此配置文件用于影响整个站点、值的设置
-# 您应该设置一次，之后很少需要编辑.
-# 由于技术原因，当您使用时，此文件*不会*自​​动重新加载
-# `jekyll 服务 -l -H localhost`。如果更改此文件，请重新启动 
-# 服务器进程.
+# This config file is meant for settings that affect your entire site, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# `jekyll serve -l -H localhost`. If you change this file, please restart the 
+# server process.
 
-# 站点基本设置
-语言环境                   : "en-US"
-标题                    : "欢迎"
-标题分隔符          : "-"
-姓名                     : &姓名 "小安"
-描述              : &描述 "SB"
-网址                      : https://学术页面.github.io # 您网站的基本主机名和协议，例如“https://[您的 GitHub 用户名].github.io"
-基本网址                  : "" # 您网站的子路径，例如“/blog"
-仓储库               : "学术页面/academicpages.github.io"
+# Basic Site Settings
+locale                   : "en-US"
+title                    : "Welcome"
+title_separator          : "-"
+name                     : &name "XiaoAn"
+description              : &description "personal description"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : "academicpages/academicpages.github.io"
 
-# 网站作者 - 以下控制作为作者内容的一部分显示在侧栏上的内容.
-#               如果字段为空，则不会显示图标和链接，否则将显示.
-#               可以通过编辑 /_includes/author-profile.html 来完成其他自定义
-作者:
-  # 简历信息
-  阿凡达           : "小安.png"
-  姓名             : "小安"
-  代词         : # 例如：“她/她"  
-  简介              : "左侧边栏的简短简介"
-  地点         : "中国"
-  雇主         : "哔哩哔哩大学"
-  乌里              : # 网址
-  电子邮件            : "无@example.org" 
+# Site Author - The following control what appear as part of the author content on the side bar.
+#               If a field is blank the icon and link will not appear, otherwise it will be shown.
+#               Additional customization can be done by editing /_includes/author-profile.html
+author:
+  # Biographic information
+  avatar           : "xiaoan.png"
+  name             : "XiaoAn"
+  pronouns         : # example: "she/her"  
+  bio              : "Short biography for the left-hand sidebar"
+  location         : "CHINA"
+  employer         : "University of bilibili"
+  uri              : # URL
+  email            : "none@example.org" 
 
-  # 学术网站
-  arXiv            : # URL - 使用指向您个人资料的正确链接进行更新
-  谷歌学术    : "https://scholar.google.com/itations?user=PS_CX0AAAAAJ"
-  影响故事      : # 网址
-  奥西德            : "http://orcid.org/yourorcidurl"
-  语义         : # 网址
-  考研           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  研究之门     : # 网址
-  总览           : # 网址
+  # Academic websites
+  arxiv            : # URL - Update with the correct link to your profile
+  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  impactstory      : # URL
+  orcid            : "http://orcid.org/yourorcidurl"
+  semantic         : # URL
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  researchgate     : # URL
+  scopus           : # URL
 
-  # 存储库和软件开发
-  位桶        : # 用户名 - 使用您在网站上的用户名进行更新
-  代码笔          : # 用户名
-  运球         : # 用户名
+  # Repositories and software development
+  bitbucket        : # Username - Update with your username on the site
+  codepen          : # Username
+  dribbble         : # Username
   github           : "academicpages"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
