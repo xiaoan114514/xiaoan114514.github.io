@@ -9,16 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Education 教育经理
 ======
-* 哔哩哔哩大学
-* 哔哩哔哩大学附属中学
-* 哔哩哔哩大学附属小学  
+* Bilibili University 哔哩哔哩大学
+* Bilibili University High School 哔哩哔哩大学附属中学
+* Bilibili University Primary School 哔哩哔哩大学附属小学  
 
 Work experience
 ======
-* 无业游民
-* 科技爱好者
+* Tech enthusiast 科技爱好者
 
 Skills
 ======
@@ -45,4 +44,4 @@ Teaching
   
 Service and leadership
 ======
-* 废物一个
+* I'm just a student bro 我只是一个学生而已，哥们
