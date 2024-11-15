@@ -9,39 +9,20 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+教育
 ======
-* Bilibili University 
-* Bilibili University High School
-* Bilibili University Primary School 
+* 哔哩哔哩大学
+* 哔哩哔哩大学附属中学
+* 哔哩哔哩大学附属小学
 
-Work experience 
+工作经历
 ======
-* Tech enthusiast 
+* 无业游民
+* 学生 
 
-Skills
+技能
 ======
 * C/C++
 * Python
+* Java
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks 
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching 
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* I'm just a student bro
