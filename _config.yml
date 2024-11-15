@@ -8,7 +8,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "zh-CN"
 title                    : "Welcome"
 title_separator          : "-"
 name                     : &name "XiaoAn"
@@ -25,9 +25,9 @@ author:
   avatar           : "xiaoan1.png"
   name             : "XiaoAn"
   pronouns         : # example: "she/her"  
-  bio              : "Technology Enthusiasts"
-  location         : "CHINA"
-  employer         : "University of Bilibili"
+  bio              : "科技爱好者，互联网冲浪选手"
+  location         : "中国"
+  employer         : "哔哩哔哩大学"
   uri              : # URL
   email            : "slasxoe8@anonaddy.com" 
 
