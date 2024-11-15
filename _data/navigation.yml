@@ -17,10 +17,10 @@ main:
   #- title: "portfolio"
    # url: /portfolio/
         
-  - title: "blog"
+  - title: "博客"
     url: /year-archive/
     
-  - title: "CV"
+  - title: "文化程度"
     url: /cv/
     
   #- title: "guide"
