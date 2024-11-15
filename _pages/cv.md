@@ -9,39 +9,39 @@ redirect_from:
 
 {% include base_path %}
 
-Education 教育经历
+Education
 ======
-* Bilibili University 哔哩哔哩大学
-* Bilibili University High School 哔哩哔哩大学附属中学
-* Bilibili University Primary School 哔哩哔哩大学附属小学  
+* Bilibili University 
+* Bilibili University High School
+* Bilibili University Primary School 
 
-Work experience 工作经历
+Work experience 
 ======
-* Tech enthusiast 科技爱好者
+* Tech enthusiast 
 
-Skills 技能
+Skills
 ======
 * C/C++
 * Python
 
-Publications 出版物
+Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks 演讲
+Talks 
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching 教育
+Teaching 
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership 服务和领导
+Service and leadership
 ======
-* I'm just a student bro 我只是一个学生而已，哥们
+* I'm just a student bro
