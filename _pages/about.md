@@ -1,12 +1,12 @@
 ---
 permalink: /
-title: "Congrats on finding a fantastic site!"
+title: "平平无奇"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-Welcome to my personal blog.ヾ(≧▽≦*)o
+欢迎来到我的个人博客小可爱QWQ
 
 
 
